@@ -31,8 +31,7 @@ No notable changes
 Deprecated
 ==========
 
-No notable changes
-
+* :ref:`docker_stack <docker_stack_module>` has had return values `err` and `out` deprecated. Use new `stdout` and `stderr` instead.
 
 Modules
 =======
